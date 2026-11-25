@@ -1,5 +1,13 @@
 # PoraBondhu AI (পড়াবন্ধু AI)
 
+[![CoU AI Hackathon 2026](https://img.shields.io/badge/CoU%20AI%20Hackathon-2026-0F766E?style=for-the-badge)](https://github.com/cou-ai-hackathon26/team_Twin_logic)
+[![Award](https://img.shields.io/badge/Award-GIGABYTE%20Monitor-F97316?style=for-the-badge)](#recognition)
+[![Live demo](https://img.shields.io/badge/Live-demo-2563EB?style=for-the-badge)](https://porabondhu.165-99-219-251.sslip.io)
+[![Demo video](https://img.shields.io/badge/YouTube-demo%20video-DC2626?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/z_jiGV3ZkbU)
+
+> 🏆 **Recognition:** At the CoU AI Hackathon 2026 (Comilla University), PoraBondhu AI earned
+> team Twin logic a **GIGABYTE monitor**, presented by **GIGABYTE**, the programme's sponsor.
+
 A Bangla reading diagnostician for primary teachers. A child reads a short passage
 aloud; PoraBondhu marks every word (correct, misread, skipped, unsure), traces each
 error to the Bangla written unit behind it (যুক্তাক্ষর, কার, ফলা, রেফ, চন্দ্রবিন্দু),
@@ -15,6 +23,7 @@ never sent to a third-party AI service.
 |---|---|
 | **Event** | CoU AI Hackathon 2026, Comilla University |
 | **Team** | Twin logic (duo) |
+| <a id="recognition"></a>**Recognition** | 🏆 GIGABYTE monitor, presented by programme sponsor GIGABYTE at the CoU AI Hackathon 2026 |
 | **Members** | Md Yak Safu · Munny Rahaman Dristy. Md Yak Safu designed, built and committed the project; Munny Rahaman Dristy was unable to take part in the build |
 | **Domain** | Education (primary), Accessibility (secondary) |
 | **Live demo** | **https://porabondhu.165-99-219-251.sslip.io** (HTTPS only; the app port is reachable only through the HTTPS proxy) |
